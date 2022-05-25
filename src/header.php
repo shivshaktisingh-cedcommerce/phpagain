@@ -1,3 +1,8 @@
+<html>
+    <head>
+</head>
+<body>
+
 <div id="header">
 		<h1 id="logo">Logo</h1>
 		<nav>
@@ -8,3 +13,6 @@
 			</ul>
 		</nav>
 	</div>
+    
+</body>
+</html>
